@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "project-furinkazan-zero",
+  "private_key_id": "a8edc887caec5b82dfdfb9e0e4c8fc83c3521ba2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC8r+nx+FOx++AO\nRSlab1NafapowZM6Qo4gwgp9c9sKNUXg7WO432SHXeW1wEPoUDoEWeX8C4MHrw/E\nYxzX5lPy/66eUwcERXwHJXCmARrGWFVXd6ks4KkTT0L+dUesRiBzXaCpLtb32XUg\nUYcgR6ol7G/s61G0eOE9VTX9vL42TjYWY8/tZB1kpf6u2NXtIixdfv693uGSCi3T\nJPhFx/uZVA8dEKpkfK9Hdl42EzcBxQAQhWCmc5SIuqL14ixsNIZRg+SuUDNU/1aA\nieccRPyo0+PRAo8l/o4vbWl5mFaDksZw1TEC6ohxiFZPr9T5hD+jl6/RJz5fvwQ/\nkUQ84sFLAgMBAAECggEAIXdyHyDUd3UdQGqz8v5b4mj3mKz82BCF9Pl1stqhtyXL\nxyFT1q6IvhnBbIM1iDbyk2L+j73a97ntKgAKVaDcsvT2m85OKEvKu9nAKTF49kUk\nnebzcqpGUs50K33RwJSPnOa2YEuWhU9knt7XALq1SxSspXD3hPMLwD0k3mRjuG3I\negauLkLp1h2BXIUmHLHgb2ajsEFJk/PnUCXuUoFP5Quwug53jg4/Xrmhga0CQ66m\nyN3H/ArHijXz7WuY1MEaE6ZExSkQfzs6Zu1CxokmPk9rf/Ey6RY/VNS52bw2n5PS\nK42ph98QgyGdM0d8Di/p5nB14kXVSKtZ9stKhhUmwQKBgQDziLsYAvRzHgw7tA2u\nEGAmSaC+Y8G1Rh2FlROgCnm4J34/pksQJ8gUSw/SD2gf/jLZTOjT1M0pCpQKEuC/\nVm8hS5DHqaWNaEcKWkTjk94woBNFGXLDbWqClDc/0MPY4o3AgreMvh2RCNV5nmVI\nnalXKsNPGwXzfqAdRvHJShNHhQKBgQDGWHgWESxcBqi/w4DsRTy2lsuvBZxW/qI7\n+WpaVhgfApUFx3u+m7gCeXiwjImHDcUD48DTbgsevc8/1oG6mYQ7KYgokjFOh4Gk\nuWSwpCcWksIqcpGrx+GO+WHi3bqVVK0+UuYH3mw7MVQ+BCwVIaA8X5U1Ig0KbYcl\npYXncxT2jwKBgQDmos0dNl8vTnujZye1e0izufMDnBHtjROUWNSXMpSHtM85lFFu\nYV546YV4GKMx+VlKti2hv9z0S1JcH/i8/CyOybO5g46H1wPAaDDpnjZEsrTNMgaf\n0dWXCKsyQpHXquc4NBOEtN/nZQhW/41IMhgXtyX0mtEOAxO75l5BlWegyQKBgByU\n+xkS+HV6cC7SGW3yvEEDke5yvIi8wNwroOvLpEYztQ3UJTzea7HPl1i5p8fScCWT\nWGIfZXLUn1zvqFofbTKpVXmjN3+9fy0hmiTqQse59kjvoZZDg3l67mQm15BVV3G3\nuHZB0w7kmOMm7sNMyS5qB7JUadSq2+LM63Li3o55AoGAKvyoE++89LFBa/Cg88y7\n36MOJMmb54OfR4Pvpa72m+eTcVjw3phdkfrh7oa6BogOdl5HUGLvAJ1jRt2yyAis\ntHpAg0RsQf3LCne6yrZcYmovv9c333N6/cHno8vj4ystbsRu3te1/SjUnd7nScWI\ntigD8fw8RAN1k7U9TJMnIbU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "automation@project-furinkazan-zero.iam.gserviceaccount.com",
+  "client_id": "108450640142429164925",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/automation%40project-furinkazan-zero.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
